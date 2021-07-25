@@ -1,5 +1,5 @@
 - 🤘🏽 Hi, I’m @alljustnoise
-- 💡 I’m interested in data anayltics and blockchain
+- 💡 I’m interested in data analytics and blockchain
 - 🌱 I’m currently learning Python
 
 <!---
